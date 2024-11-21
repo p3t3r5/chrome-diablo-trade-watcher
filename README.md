@@ -14,12 +14,12 @@ Streamline your Diablo.Trade trading experience and gain a competitive edge with
 
 ## PRIVACY POLICY
 
-1. Introduction
+#### 1. Introduction
 Protecting your privacy is important to us. This app is designed to monitor the Diablo.Trade marketplace without collecting any personal or other user data.
 
 By using our app, you agree to the terms outlined in this privacy policy.
 
-2. Data We Collect
+#### 2. Data We Collect
 We do not collect any data:
 
 No personal data: We do not collect information such as your name, email address, IP address, or location.
@@ -27,16 +27,16 @@ No usage data: We do not track your activity or store any interactions with the 
 3. Data Sharing
 Since no data is collected, no data is shared with any third parties.
 
-4.  External Links
+#### 4.  External Links
 Our app contains links to the Diablo.Trade marketplace. Please note that we are not responsible for the privacy policies or practices of this external platform. We recommend reviewing their privacy policy.
 
-5. Security
+#### 5. Security
 Although we do not collect any data, the app is designed to ensure that your use remains secure. No information is transmitted or stored that could compromise your privacy.
 
-6. Changes to This Privacy Policy
+#### 6. Changes to This Privacy Policy
 This privacy policy may be updated occasionally to reflect any changes to the app’s functionality. Changes will take effect upon being published within the app.
 
-7. Contact
+#### 7. Contact
 If you have any questions or concerns regarding this privacy policy, you can contact us at:
 
 App Owner: peters.frontend
