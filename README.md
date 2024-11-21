@@ -12,7 +12,7 @@ Market Trends: Analyze price fluctuations and patterns to stay informed.
 Wishlist Alerts: Get notified when items from your wishlist become available.
 Streamline your Diablo.Trade trading experience and gain a competitive edge with our app. Start monitoring smarter today!
 
-## Privacy Policy
+## PRIVACY POLICY
 
 1. Introduction
 Protecting your privacy is important to us. This app is designed to monitor the Diablo.Trade marketplace without collecting any personal or other user data.
@@ -27,7 +27,7 @@ No usage data: We do not track your activity or store any interactions with the 
 3. Data Sharing
 Since no data is collected, no data is shared with any third parties.
 
-4. External Links
+4.  External Links
 Our app contains links to the Diablo.Trade marketplace. Please note that we are not responsible for the privacy policies or practices of this external platform. We recommend reviewing their privacy policy.
 
 5. Security
