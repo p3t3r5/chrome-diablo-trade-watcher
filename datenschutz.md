@@ -1,4 +1,4 @@
-## Datenschutzrichtlinie
+## DATENSCHUTZ
 
 #### 1. Einleitung
 Der Schutz Ihrer Privatsphäre ist uns wichtig. Diese App wurde entwickelt, um Daten ausschließlich lokal auf Ihrem Gerät zu verarbeiten. Es werden keine personenbezogenen oder anderen Daten an externe Server oder Dritte übermittelt.
