@@ -1,5 +1,5 @@
-# chrome-diablo-trade-watcher
-Diablo Trade Watcher - Chrome Extension
+# Diablo Trade Watcher - Chrome Extension
+
 
 ## DESCRIPTION
 
@@ -15,30 +15,43 @@ Streamline your Diablo.Trade trading experience and gain a competitive edge with
 ## PRIVACY POLICY
 
 #### 1. Introduction
-Protecting your privacy is important to us. This app is designed to monitor the Diablo.Trade marketplace without collecting any personal or other user data.
+Protecting your privacy is important to us. This app is designed to process data exclusively on your device. No personal or other data is transmitted to external servers or third parties.
 
-By using our app, you agree to the terms outlined in this privacy policy.
+By using the app, you agree to the terms outlined in this privacy policy.
 
-#### 2. Data We Collect
-We do not collect any data:
+#### 2. What Data is Processed
+The app processes the following data exclusively:
 
-No personal data: We do not collect information such as your name, email address, IP address, or location.
-No usage data: We do not track your activity or store any interactions with the app.
-3. Data Sharing
-Since no data is collected, no data is shared with any third parties.
+Market Data:
+Data from the Diablo.Trade marketplace, such as item prices, availability, and search queries. This data is used solely for display within the app.
+Local Usage Data:
+Search history or custom settings stored locally on your device to enhance your user experience.
+No Personal Data:
 
-#### 4.  External Links
-Our app contains links to the Diablo.Trade marketplace. Please note that we are not responsible for the privacy policies or practices of this external platform. We recommend reviewing their privacy policy.
+The app does not collect or store personal information such as your name, email address, IP address, location, or similar data.
+#### 3. How Data is Processed
+Local Processing:
+All data is processed directly on your device. No data is transmitted to external servers or stored elsewhere.
+No Transmission:
+There is no sharing or forwarding of processed data to third parties or external servers.
 
-#### 5. Security
-Although we do not collect any data, the app is designed to ensure that your use remains secure. No information is transmitted or stored that could compromise your privacy.
+#### 4. Data Security
+Since all data is processed locally on your device, it remains fully under your control. No sensitive information is transmitted or shared externally.
 
-#### 6. Changes to This Privacy Policy
-This privacy policy may be updated occasionally to reflect any changes to the app’s functionality. Changes will take effect upon being published within the app.
+#### 5. External Links
+The app may contain links to the Diablo.Trade marketplace. We are not responsible for the privacy policies or practices of this external platform. We recommend reviewing Diablo.Trade’s privacy policy.
 
-#### 7. Contact
+#### 6. Your Rights
+As no personal data is processed or stored, the following rights are inherently ensured by the app:
+
+Control Over Data:
+All locally stored data (e.g., search history or settings) can be deleted by resetting the app data on your device.
+
+#### 7. Changes to This Privacy Policy
+This privacy policy may be updated occasionally to reflect changes in app functionality or legal requirements. Changes will take effect upon publication within the app.
+
+#### 8. Contact
 If you have any questions or concerns regarding this privacy policy, you can contact us at:
-
 App Owner: peters.frontend
 Email: peters.frontend@gmail.com
 
